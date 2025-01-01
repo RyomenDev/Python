@@ -13,5 +13,11 @@ add=[nums,mix]
 print(add)
 
 # nums.append , insert , remove , pop
-# del nums[2:4]   nums.extend([34,56,67])
+# del nums[2:4]  
+# nums.extend([34,56,67])
 #min(nums), max, sum ,nums.sort
+
+nums.sort();
+print(nums);
+
+print(min(nums))

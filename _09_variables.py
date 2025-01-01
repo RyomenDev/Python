@@ -14,4 +14,7 @@ print(id(d))
 print(id(10))
 
 print(type(num))
+print(type(name))
+
+
 
