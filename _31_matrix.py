@@ -20,7 +20,7 @@ m1=matrix('1 2 3 ; 4 5 6 ; 7 8 9')
 
 # m=matrix(arr1)
 # print(m)
-print(m1)
+# print(m1)
 
 print(diagonal(m1)) # m.min ,max
 

@@ -25,6 +25,7 @@ def update2(x):
 
 lst=[10,20,30]
 print('befup id,lst=', id(lst))
+print('lst=', lst)
 update2(lst)
 print('lst=', lst)
 print('aftup id,lst=', id(lst))

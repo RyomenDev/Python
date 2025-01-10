@@ -7,5 +7,5 @@ while(i<5):
     while(j<3):
         print(j,end=" ")
         j+=1
-    print()
+    print() # new line
     i+=1

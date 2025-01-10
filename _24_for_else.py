@@ -9,4 +9,4 @@ for num in nums:
         print(num)
         break
 else:
-    print(('not found'))
+    print('not found')
