@@ -13,9 +13,21 @@ def fib(n):
             print(y)
             x=x+y
             y=y+x
+        # print(x)
+        # print(y)
+        # for i in range(2,n):
+        # c=x+y
+        # x=y
+        # y=c
+        # print(c)
+
+        
 
 fib(-5)
 fib(7)
+
+
+
 
 
 
