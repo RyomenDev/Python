@@ -13,4 +13,4 @@ lst=[1,2,3,4,5,6,7]
 even,odd=count(lst)
 
 print('even:',even,'and odd:',odd)
-print('Even: {} and Odd : {}'.format(even,odd))
+print('Even: {} and Odd : {}'.format(even,odd)) # format func of string
