@@ -8,7 +8,7 @@ def fact(n):
 
 
 
-# x=int(input('num:'))
-x=5
+x=int(input('num:'))
+# x=5
 result=fact(x)
 print(result)
