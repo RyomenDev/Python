@@ -1,3 +1,4 @@
+# using Anonymous functioon in other function
 
 # def iseven(n):
 #     return n%2==0
