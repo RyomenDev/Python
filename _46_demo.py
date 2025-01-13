@@ -1,5 +1,5 @@
 
-print('hello '+__name__)
+print('hello from demo'+__name__)
 
 def main():
 
@@ -7,4 +7,6 @@ def main():
     print('welcome user')
 
 if __name__ == '__main__':
-    main()
+    main() # to prevent call if just imported
+
+# main()
