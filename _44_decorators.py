@@ -1,4 +1,5 @@
 
+# logic in functions without touching existing functions
 
 def div(a,b):
     print(a/b)
