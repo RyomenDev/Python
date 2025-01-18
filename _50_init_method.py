@@ -17,3 +17,4 @@ comp2=computer('ryzen',8)
 
 comp1.config()
 comp2.config()
+computer.config(comp1)
