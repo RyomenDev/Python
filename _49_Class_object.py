@@ -12,7 +12,7 @@ class computer:
 # print(type(a))
 
 comp1=computer()
-# print(type(comp1))
+print(type(comp1))
 
 comp2=computer()
 
